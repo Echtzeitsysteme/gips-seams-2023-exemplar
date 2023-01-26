@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.egit.core.GitProvider">
+<project reference="1.0,https://github.com/Echtzeitsysteme/gips-seams-2023-exemplar.git,main,LectureStudioModel"/>
+<project reference="1.0,https://github.com/Echtzeitsysteme/gips-seams-2023-exemplar.git,main,org.gips.examples.incrementalp2p.common"/>
+<project reference="1.0,https://github.com/Echtzeitsysteme/gips-seams-2023-exemplar.git,main,org.gips.examples.incrementalp2p.distribution"/>
+<project reference="1.0,https://github.com/Echtzeitsysteme/gips-seams-2023-exemplar.git,main,org.gips.examples.incrementalp2p.gips.incrementaldistribution"/>
+<project reference="1.0,https://github.com/Echtzeitsysteme/gips-seams-2023-exemplar.git,main,org.gips.examples.incrementalp2p.repository"/>
+<project reference="1.0,https://github.com/Echtzeitsysteme/gips-seams-2023-exemplar.git,main,org.gips.examples.incrementalp2p.run"/>
+<project reference="1.0,https://github.com/Echtzeitsysteme/gips-seams-2023-exemplar.git,main,org.gips.examples.incrementalp2p.visualization"/>
+</provider>
+</psf>
